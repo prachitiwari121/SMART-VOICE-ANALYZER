@@ -10,12 +10,15 @@ This Vue.js app converts speech to text, tracks transcription history, analyzes 
 - ✨ **Unique Phrases**: Identify unique phrases in transcriptions.
 - 👥 **Similar Users**: Find users with similar speech patterns.
 
-### Frontend 
-- cd voice-analyzer-frontend
-- npm install
-- npm run serve
-
+### Frontend
+```bash
+cd voice-analyzer-frontend
+npm install
+npm run serve
+```
 ### Backend
+```bash
 - cd backend
 - pip install -r requirements.txt
 - python app.py
+```
