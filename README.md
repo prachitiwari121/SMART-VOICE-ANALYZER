@@ -15,7 +15,7 @@ This Vue.js app converts speech to text, tracks transcription history, analyzes 
 - npm install
 - npm run serve
 
-#Backend
+### Backend
 - cd backend
 - pip install -r requirements.txt
 - python app.py
