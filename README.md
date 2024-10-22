@@ -22,3 +22,5 @@ cd backend
 pip install -r requirements.txt
 python app.py
 ```
+
+![image](https://github.com/user-attachments/assets/2e781e51-f8e4-4524-bf5a-85adddef6fdf)
