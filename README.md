@@ -1,4 +1,4 @@
-# Speech-to-Text Dashboard
+# SMART VOICE ANALYZER
 
 ## Overview
 This Vue.js app converts speech to text, tracks transcription history, analyzes word frequency, identifies unique phrases, and finds users with similar speech patterns using the Web Speech API. It requires a backend server to store transcriptions, fetch history, and perform analysis.
